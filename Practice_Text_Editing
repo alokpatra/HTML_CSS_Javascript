@@ -1,0 +1,22 @@
+<p> This is text editing
+
+<!-- This is italics!-->
+<p> This is <i>text editing</i> </p>
+
+
+
+
+<!-- This is a comment !-->
+<p> This is <b>text editing</b> </p>
+
+  <h1> This is how to increase text size</h1>
+<!-- This is how to increase text size-->
+<p> This is <big><big> <big> <big> <big> <big> <big>text editing</big> </p>
+
+<h1> <small> This is how to Highlight text </small></h1>
+<!-- This is how to increase text size-->
+<p> This is <mark> text editing</mark> </p>
+
+<h1> <small> This is how to use sub-script and super - script </small></h1>
+<!-- This is how to increase text size-->
+<p> 4 log <sub> 8</sub> 10 <sup> 2 </sup> </p>
